@@ -1,6 +1,6 @@
-- 👋 Hi, I’m kunal
+- 👋 Hi, I’m boolck
 - 👀 I’m interested in Data and it's application in medical & fin tech
-- 🌱 I’m currently learning Scala & GCP
+- 🌱 I’m currently learning python & GCP
 - 💞️ I’m looking to collaborate on medtech and fintech
 - 📫 How to reach me , send me message
 

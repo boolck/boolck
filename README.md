@@ -1,7 +1,7 @@
-- 👋 Hi, I’m boolck
-- 👀 I’m interested in Data and it's application in medical & fin tech
+- 👋 Hi, I’m Kunal
+- 👀 I’m interested in Data and it's application in fin tech & med tech
 - 🌱 I’m currently learning python & GCP
-- 💞️ I’m looking to collaborate on medtech and fintech
+- 💞️ I’m looking to collaborate on ineteresting problems in distributed systems
 - 📫 How to reach me , send me message
 
 <!---

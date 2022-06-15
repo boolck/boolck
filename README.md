@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kunal
 - 👀 I’m interested in Data and it's application in fin tech & med tech
-- 🌱 I’m currently learning Python & Google Cloud Platform (GCP)
+- 🌱 I’m currently learning Python & Amazon Web Services (AWS)
 - 💞️ I’m looking to collaborate on interesting problems in distributed systems
 - 📫 How to reach me , send me message
 
